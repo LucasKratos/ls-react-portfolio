@@ -46,7 +46,7 @@ const SocialLinks = () => {
                 Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: '/Lucas-Spagnoli-2022-CV.pdf',
+            href: '/CV-Lucas-Spagnoli-.pdf',
             style: "rounded-tr-md",
             download: true
         }
